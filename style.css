@@ -4,3 +4,17 @@ table {
     border: 5px blue;
     font-family:"Courier New", Courier, monospace;
 }
+
+body {
+    /*background-image: <images/the_devil.jpg>;*/
+    background-size: cover;
+    background-image: url(images/the_devil.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center
+}
+
+a {
+    color: black;
+    font-variant: normal;
+}
