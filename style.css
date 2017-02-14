@@ -38,8 +38,10 @@ a {
 table {
     color: green;
     background-color: black;
-    border: 5px blue;
+    border: 5px groove olive;
     font-family:"Courier New", Courier, monospace;
+    font-size: large;
+    font-weight:600;
     text-align:left;
     margin:1em auto;
 }
