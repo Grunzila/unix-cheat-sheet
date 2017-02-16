@@ -46,6 +46,10 @@ table {
     margin:1em auto;
 }
 
+td {
+    width: 120px;
+}
+
 body {
     /*background-image: <images/the_devil.jpg>;*/
     text-align:center;
