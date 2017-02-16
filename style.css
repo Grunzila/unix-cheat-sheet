@@ -31,7 +31,7 @@ dl {
 }
 
 a {
-    color:white;
+    color:gold;
     font-variant: normal;
 }
 
@@ -39,6 +39,7 @@ table {
     color: green;
     background-color: black;
     border: 5px double olive;
+    border-collapse: collapse;
     font-family:"Courier New", Courier, monospace;
     font-size: large;
     font-weight:600;
@@ -80,4 +81,20 @@ body {
 
 .flr {
     vertical-align:middle;
+}
+
+a :visited {
+    color: purple;
+}
+
+tr :first-of-type {
+    color:lime;
+}
+
+tr :nth-child(even) {
+    background-color:#303000;
+}
+
+tr :hover {
+    background-color:gold;
 }
