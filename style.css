@@ -38,7 +38,7 @@ a {
 table {
     color: green;
     background-color: black;
-    border: 5px groove olive;
+    border: 5px double olive;
     font-family:"Courier New", Courier, monospace;
     font-size: large;
     font-weight:600;
